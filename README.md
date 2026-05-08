@@ -1,1 +1,1 @@
-<video src="./Gameplay.mp4" controls width="600"></video>
+https://github.com/luckybros/Space-Dodger/blob/main/Gameplay.mp4
